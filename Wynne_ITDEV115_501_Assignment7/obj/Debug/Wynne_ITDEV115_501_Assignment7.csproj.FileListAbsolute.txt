@@ -1,0 +1,10 @@
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\bin\Debug\Wynne_ITDEV115_501_Assignment7.exe.config
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\bin\Debug\Wynne_ITDEV115_501_Assignment7.exe
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\bin\Debug\Wynne_ITDEV115_501_Assignment7.pdb
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\obj\Debug\Wynne_ITDEV115_501_Assignment7.csproj.AssemblyReference.cache
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\obj\Debug\Wynne_ITDEV115_501_Assignment7.Properties.Resources.resources
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\obj\Debug\Wynne_ITDEV115_501_Assignment7.csproj.GenerateResource.cache
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\obj\Debug\Wynne_ITDEV115_501_Assignment7.csproj.CoreCompileInputs.cache
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\obj\Debug\Wynne_ITDEV115_501_Assignment7.exe
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\obj\Debug\Wynne_ITDEV115_501_Assignment7.pdb
+D:\BACKUP2\Users\john\Documents\SKOOL\OBJ2\Wynne_ITDEV115_501_Assignment7\obj\Debug\Wynne_ITDEV115_501_Assignment7.FarmerGameApp.resources
